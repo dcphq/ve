@@ -34,7 +34,7 @@ In 1943, at the age of 74, Matisse began work on the portfolio Jazz, 20 prints o
 
 New Art for Providence
 July 20 - September 16, 1990
-<param ve-map center="Q36600" zoom="11" prefer-geojson>
+<param ve-map center="Q18383" zoom="11" prefer-geojson>
 
 ## Multiple viewers
 
