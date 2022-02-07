@@ -3,7 +3,7 @@
 <param ve-config 
        title="The Nightmare of the White Elephant (Le Cauchemar de l'éléphant blanc), 1947"
        author="RISD Musem"
-       banner="https://iiif.juncture-digital.org/banner/?url=![image](https://user-images.githubusercontent.com/8333296/152862877-30e2181c-f943-4242-9c00-2dbc8896de2e.png)" 
+       banner="https://iiif.juncture-digital.org/banner/?url=![image](https://risdmuseum.org/sites/default/files/styles/scaled_900/museumplus/263755.jpg?itok=JvdPpoXH)" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
