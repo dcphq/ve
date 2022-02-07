@@ -3,7 +3,7 @@
 <param ve-config 
        title="The Nightmare of the White Elephant (Le Cauchemar de l'éléphant blanc), 1947"
        author="RISD Musem"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/3/37/Mud_Cow_Racing_-_Pacu_Jawi_-_West_Sumatra%2C_Indonesia.jpg&region=pct:20,20,80,20 
+       banner="https://risdmuseum.org/sites/default/files/styles/scaled_900/museumplus/263755.jpg?itok=JvdPpoXH" 
        layout="vertical">
          
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
