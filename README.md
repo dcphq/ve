@@ -1,18 +1,15 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Girl with a Pearl Earring"
-       author="JSTOR Labs team"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
+       title="The Nightmare of the White Elephant (Le Cauchemar de l'éléphant blanc), 1947"
+       author="RISD Musem"
+       banner="https://iiif.juncture-digital.org/banner/?url=![image](https://user-images.githubusercontent.com/8333296/152862877-30e2181c-f943-4242-9c00-2dbc8896de2e.png)" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
-<param ve-entity eid="Q185372"> <!-- Girl with a Pearl Earring painting -->
-<param ve-entity eid="Q41264"> <!-- Johannes Vermeer -->
-<param ve-entity eid="Q221092"> <!-- Mauritshuis -->
-<param ve-entity eid="Q36600"> <!-- The Hague -->
+<param ve-entity eid="Q5589"> <!-- Henri Matisse -->
 
 # Sample visual essay
 
@@ -24,19 +21,19 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 
 ## Image
 
-_Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
-dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
-20th century after the earring worn by the girl portrayed there.[^1]
+Here Henri Matisse creates an overall sense of the chaotic atmosphere of the center ring, with harsh red slashes and black undulating forms which almost obscure the elephant who stands on a ball in the background.
+
+In 1943, at the age of 74, Matisse began work on the portfolio Jazz, 20 prints of circus and theater images accompanied by texts and poems. His “crystallizations of memories of the circus” were designed using paper cutouts, which Matisse arranged as collages. Assistants then prepared the collages for printing using a stencil process called pochoir.[^1]
 <param ve-image 
-       label="Girl with a Pearl Earring" 
+       label="The Nightmare of the White Elephant (Le Cauchemar de l'éléphant blanc), 1947" 
        description="painting by Johannes Vermeer" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
+       url="https://risdmuseum.org/sites/default/files/styles/scaled_900/museumplus/263755.jpg?itok=JvdPpoXH">
 
 ## Map
 
-The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
-literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
+New Art for Providence
+July 20 - September 16, 1990
 <param ve-map center="Q36600" zoom="11" prefer-geojson>
 
 ## Multiple viewers
@@ -49,4 +46,5 @@ Others are selectable using icons displayed in the top right margin of the parag
 
 # References
 
-[^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
+[^1]: [Henri Matisse, designer
+The Nightmare of the White Elephant (Le Cauchemar de l'éléphant blanc), 1947](https://risdmuseum.org/art-design/collection/nightmare-white-elephant-le-cauchemar-de-lelephant-blanc-1987058?return=%2Fart-design%2Fcollection%3Fsearch_api_fulltext%3Dmatisse%26op%3D#content__section--exhibition-history--933691)
