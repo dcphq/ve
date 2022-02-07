@@ -3,9 +3,9 @@
 <param ve-config 
        title="The Nightmare of the White Elephant (Le Cauchemar de l'éléphant blanc), 1947"
        author="RISD Musem"
-       banner="https://iiif.juncture-digital.org/banner/?url=![image](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Museum_of_Art%2C_RISD%2C_Providence_RI.jpg/640px-Museum_of_Art%2C_RISD%2C_Providence_RI.jpg)" 
+       banner="https://iiif.juncture-digital.org/banner/?url=![image](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Matisse%2C_Henri_02_1869-1954_Signature.jpg/640px-Matisse%2C_Henri_02_1869-1954_Signature.jpg)" 
        layout="vertical">
-
+      
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
