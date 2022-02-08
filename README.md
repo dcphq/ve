@@ -36,7 +36,8 @@ RISD Museum, Providence, RI
 <param ve-map center="Q2148186" zoom="18" prefer-geojson>
 
 ## Detail
-<span data-click-image-zoomto="1|563,306,163,145">Click here to focus on an image detail</span>
+<param ve-image region=563,306,163,145>
+
 
 ## Multiple viewers
 
