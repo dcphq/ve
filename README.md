@@ -33,7 +33,7 @@ In 1943, at the age of 74, Matisse began work on the portfolio Jazz, 20 prints o
 ## Location
 
 RISD Museum, Providence, RI
-<param ve-map center="Q2148186" zoom="20" prefer-geojson>
+<param ve-map center="Q2148186" zoom="18" prefer-geojson>
 
 ## Detail
 
