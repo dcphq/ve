@@ -16,24 +16,26 @@
 This is a sample visual essay demonstrating a few key features of a Visual Essay using exhibition items from the [RISD Museum](https://risdmuseum.org/). Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
 <param ve-image label="The Nightmare of the White Elephant" license="public domain" url="https://risdmuseum.org/sites/default/files/styles/scaled_900/museumplus/263755.jpg?itok=JvdPpoXH">
 
-# Basic usage
+# The Nightmare of the White Elephant (Le Cauchemar de l'éléphant blanc), 1947
 
-## Image
+## Description
 
 Here Henri Matisse creates an overall sense of the chaotic atmosphere of the center ring, with harsh red slashes and black undulating forms which almost obscure the elephant who stands on a ball in the background.
 
 In 1943, at the age of 74, Matisse began work on the portfolio Jazz, 20 prints of circus and theater images accompanied by texts and poems. His “crystallizations of memories of the circus” were designed using paper cutouts, which Matisse arranged as collages. Assistants then prepared the collages for printing using a stencil process called pochoir.[^1]
 <param ve-image 
        label="The Nightmare of the White Elephant (Le Cauchemar de l'éléphant blanc), 1947" 
-       description="painting by Johannes Vermeer" 
-       license="public domain" 
+       description="The Nightmare of the White Elephant" 
+       license="This object is in Copyright. This object is The Nightmare of the White Elephant (Le Cauchemar de l'éléphant blanc) with the accession number of 1987.058. To request high-resolution files or new photography, please send an email to imagerequest@risd.edu and include your name and the object's accession number." 
        url="https://risdmuseum.org/sites/default/files/styles/scaled_900/museumplus/263755.jpg?itok=JvdPpoXH">
 
-## Map
 
-New Art for Providence
-July 20 - September 16, 1990
+## Location
+
+RISD Museum, Providence, RI
 <param ve-map center="Q2148186" zoom="11" prefer-geojson>
+
+## Detail
 
 ## Multiple viewers
 
