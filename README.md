@@ -13,7 +13,7 @@
 
 # Sample visual essay
 
-This is a sample visual essay demonstrating a few key features of a Visual Essay using exhibition items from the [RISD Museum] (https://risdmuseum.org/). Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
+This is a sample visual essay demonstrating a few key features of a Visual Essay using exhibition items from the [RISD Museum](https://risdmuseum.org/). Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
 <param ve-image label="The Nightmare of the White Elephant" license="public domain" url="https://risdmuseum.org/sites/default/files/styles/scaled_900/museumplus/263755.jpg?itok=JvdPpoXH">
 
 # Basic usage
